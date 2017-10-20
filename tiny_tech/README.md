@@ -39,6 +39,8 @@ Ask the class, which group was more efficient (the least amount of steps).
 
 Have instance of class setup from the Kodable website, so students can track their progress. The first set of exercises deals with the concept of sequences. Note different points from the discussions and activities earlier in class.  
 
+***  
+
 # Day Two    
 
 `10/16/2017`  
@@ -61,7 +63,37 @@ A computer program is exactly that; step-by-step instructions to tell the comput
 
 Have students put together the steps to make a peanut butter and jelly sandwich in the *correct* order, using the provided construction paper.  
 
-## Code  
+### Sequence  
+
+Discuss sequence, step-by-step set of instructions --*step-by-step: to be completed in order.* Move on to the Kodable app to drive the idea of sequences and algorithms home. In Kodable, the main goal is give the character a set of instructions in order to complete each maze. As students progress through the levels, unnecessary details start to display. These are examples of abstraction, we only need to focus on the details for completing the task at hand, and not worry about any unnecessary details which could be a distraction. Students will encounter errors, or bugs when they program. Discuss what they are, how to get past them, and this is a common occurrence in the computer programming world (as well as the real world).  
+
+***  
+
+# Day Three  
+
+`10/23/2017`  
+
+### Computer System Layers  
+
+A computer; rather, a computer system is a device used to solve problems and interact with its environment. Several layers make up a computer system, similar to an onion. Each layer has a specific task in the overall structure. Just like you would an onion, the layers can be separated. We can look at a whole computing system this way. It is far less complicated to just focus on one layer at a time, than trying to learn all the layers at once.  
+
+Go through the [Layers of a Computer Activity](https://github.com/techemstudios/wem_tech/blob/master/tiny_tech/tiny_tech_lessons/computer_system_layers.pdf). *Note:* you do not need to use the exact shapes/colors in the lesson.  
+
+#### Abstraction  
+
+When we are working in one layer, we do not need to concern ourselves with the information in the surrounding layers. This way, we can just focus on what needs to be done in the moment. Think of abstraction as a mental model; a way to think about something. Have the unnecessary details hidden, so we can leave only the information we need to complete our goal. Think about the extra paths and objects (gnomes, mushrooms, etc.) in Kodable. Sure, we see them, but we do not need to think to much or do anything about them. We just know they are there.  
+
+Abstraction Examples:  
+
+* A Person Driving a Car  
+  - The only thing they need to focus on is the road ahead.
+  - It is unnecessary to worry about details of how the engine or electronics of the car work.
+
+* Fast Food Restaurant  
+  - At many restaurants, the names of meals have corresponding numbers.
+  - The food prep has been trained to recognize the meal number, not worry about the full name.
+
+## What is Code  
 
 *5 min*  
 
@@ -83,7 +115,7 @@ Code lets you communicate! In general, *code* is a system for transferring infor
 
 *10 min*  
 
-Computers *speak* using binary; where only the digits 0 and 1 are used. Zero is "coded" to mean OFF, one is "coded" to mean ON. Relate to a light switch.
+We will take a closer look at the information layer of a computer system. Computers *speak* using binary; where only the digits 0 and 1 are used. Binary is simple since it only deals with two possible values. Zero is *coded* to mean OFF, one is *coded* to mean ON. Relate to a light switch.
 
 Use a small whiteboard to explain how computers translate numbers we use; decimal number system into the binary number system --by explaining the difference between the two by focusing on the place values.  
 
@@ -95,10 +127,29 @@ Binary numbers use a Base 2 system, two digits:
 
                     0 1
 
-Because of the age group, put more focus on explaining the binary number system, rather than the decimal number system. Explain with the binary flashcards.  
+Because of the age group, put more focus on explaining the binary number system, rather than the decimal number system. Explain using visuals, with the binary flashcards.  
 
 #### Make your own Binary Flashcards  
 
 Activity to visually see how the binary number system operates by practicing a method that converts decimal numbers to binary. Ask for five volunteers. Reiterate the place values. Explain that when the card is flipped to show the darker side, this means the place value is OFF, or zero. When the card is flipped to show the dots, the value is ON, or one. flip the correct cards (turn "ON") to collectively show the number, one in binary. Do this for the numbers, 2 - 10.  
 
-###
+***  
+
+# Day Four  
+
+`10/30/2017`  
+
+### Logic Gates  
+####  Digital Switching Devices  
+
+The next computer layer is the **Hardware** layer. Discuss what hardware is, and the comparison between hardware and software. Along with the physical devices we've mentioned are hardware, like monitors, a mouse, keyboard, printers, etc.; they are other devices in a computer considered to be hardware, which we do not usually see on the surface such as circuits and gates. The circuits and gates in a computer control electricity flow. When you hear the word *"gate"*, what do you think of? You probably think of **open** and **close**, like a door would do. Remember in binary, there are only two values, **on** and **off**. So, we could say that gates only have two possible value too; only, the values are open and close. The two values for gates in computer hardware are represented with one and zero. When a gate has an output of **1**, we can say the gate is **open**, which allows electricity to flow. In contrast, an output value of **0** means the gate is closed, so there is no flow of electricity through the gate.  
+
+These gates can be combined to form what are called circuits, which can perform more complicated tasks. In a circuit, one gate might have their output value as the input to another gate, and so on. Since circuits are made up of gates, the electricity flow through a circuit is controlled by the interaction of the gates.  
+
+#### How to Express Gate Behavior  
+
+There are three different ways we can represent the workings of gates:
+
+* Boolean expressions  
+* Logic symbol diagrams
+* Truth tables
