@@ -153,3 +153,44 @@ There are three different ways we can represent the workings of gates:
 * Boolean expressions  
 * Logic symbol diagrams
 * Truth tables
+
+# Conditions  
+
+## Discussion: Condition  
+
+What needs to happen before something else is allowed to happen. *If... then*. Have you heard your parents say, "IF you eat all your dinner, THEN you can have dessert?" or "IF you clean up your room, THEN we can go play?" Those are conditions. You have to do one thing first before you can do something else. One thing must be true before some other thing happens.  
+
+When your parents reward you like that, what is the condition of the reward? Just like your parents will check on your room to see if you cleaned it, a computer will check on a statement to see if it is true to decide which action to take.  
+
+Sometimes we want to have an extra condtion, in case the *if* statement is not true. This extra condition is called an *else* statement. IF you clean up your room, THEN you can play on the computer, ELSE your brother will get to play on the computer. If it is true you clean up your room, you get to play on the computer. If it is false that your room is clean, your brother get to play on the computer.
+
+## Game: Conditional Cards  
+
+As an example, let's play with a deck of cards. If I draw a 7, everybody claps once. ELSE EVERYONE SAYS 'Awwww.' Draw a card and see if everyone reacts appropiately. Ask: What was the IF? What was the ELSE? Which condition was met? Repeat.  
+
+Create a few *programs* with the class that depend on things like a card's suit, color, or value to award points. Write the program on a whiteboard or clearly on a sheet of paper as an algorithm:  
+
+```  
+IF (card is red)
+    award teacher 1 point
+ELSE
+    award class 1 point
+```  
+
+Run one program at a time (use 10 cards or 5 points as an end point). Play several times with several different programs to help students drive home the idea of conditionals.  
+
+Another example, for a smaller group (3 students) and to show mutli-way decision patterns:  
+
+```  
+IF spades is drawn  
+    award student a 1 point
+ELIF clubs is drawn
+    award student b 1 point
+ELIF
+    award student c 1 point
+ELSE
+    award teacher 1 point
+```  
+
+    
+
