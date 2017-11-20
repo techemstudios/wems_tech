@@ -43,6 +43,15 @@
     # Tried our hand out creating our own puzzles in Kodable
         # However, group may be too young.. will try another step-by-step approach next week.
 
-
+# 11/20
+    # Elem tech 1
+        # design thinking: test
+    # Elem tech 2
+        # turkey maze
+        # Continue Lightbot
+            # look to breaking off into groups: 1) Hyperpad dev, 2) kodable
+            # for all: quick hands-on activities (5 or ten minutes max) --> sequence, conditions, objects, etc. 
+    # Tiny Tech
+        # binary switches; binary number flashcards (with pilgrim hats!)
 
 
