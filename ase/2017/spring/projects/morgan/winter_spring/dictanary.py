@@ -1,0 +1,25 @@
+Soumya = {}
+Soumya['last name']='Khadye'
+Soumya['favorite food']= 'cheese pezza'
+Soumya['favorite colar']= 'dark blue'
+Soumya['lucky number']= '10'
+Soumya['favorite thing to do']= 'watch TV'
+print(Soumya)
+Meira = {}
+Meira['last name']='Boyle'
+Meira['favorite food']= 'strabarry'
+Meira['favorite coler']= 'teal'
+Meira['lucky number']= '10'
+Meira['favorite thing to do']= 'read'
+Sienna = {}
+Sienna['last name']='Roinsin'
+Sienna['favorite food']= 'Pasta'
+Sienna['favorite coler']= 'blue' 
+Sienna['lucky number']= '8'
+Sienna['favorite thing to do']= 'ice skate'
+Clark = {}
+Clark['last name']='tanner'
+Clark['favorite food']= 'rigatony'
+Clark['favorite coler']= 'blue'
+Clark['lucky number']= '301'
+Clark['favorite thing to do']= 'play with cats'
