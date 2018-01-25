@@ -24,6 +24,10 @@ Ipad Activity
 Review  
 * Complete mini review sheets  
 
+Key Terms Activity  
+* Construction Paper Flash cards
+    * 
+
 Hopsctoch  
 * Etch-a-sketch  
 * Drawing  
