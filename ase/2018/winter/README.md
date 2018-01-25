@@ -31,6 +31,9 @@ Have the class create their set of flashcards for important key terms we will be
 
 * Sequence - the order in which instructions are given (to a computer)  
 * Event - A trigger that a computer listens for/recognizes and causes it to do something  
+    - example: in Hopscotch, all events start with the word "WHEN"; it begins the *rule*. Think of it as a "WHEN this..., THEN this happens..." sentence.  
+    - Events are essential for computer engineers in general, because they tell a machine when exactly it should perform an action. For instance, when you touch the phone icon on your home screen, your phone then brings up the interface to make calls.  
+    - Realworld example: When you raise your hand (a trigger) in class, then you are called on (action) by a teacher.  
 * Loop - Code that repeats  
 * Conditional - "IF (something is true), THEN (do an action)" statements  
 * Code Block - A group of programming statements  
