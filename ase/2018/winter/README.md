@@ -1,6 +1,13 @@
 # WEMS ASE - Winter 2018  
 
+Elementary Tech Session 2: Focuses on learning coding and how to make learning it easy! - Using visual coding apps, students will learn about the basics of computer programming and how we make computers do what we want.  
+
 ## Day One  
+
+#### Materials:  
+
+* Hopsctoch iPad app  
+    - Many of the lessons pertaining to the Hopscotch app are pulled from the [hopscotch curriculum files bucket](http://hopscotch-curriculum-files.s3.amazonaws.com/Hopscotch%20Curriculum%202015.pdf)    
 
 Intro/Review  
 * A program is...  
